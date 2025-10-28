@@ -1,13 +1,27 @@
-# Sample Hardhat Project
+⚡ Decentralized Application (DApp)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+A blockchain DApp built using Hardhat and Node.js, featuring a Solidity smart contract with JavaScript scripts for deployment and testing on a local Hardhat node.
 
-Try running some of the following tasks:
+⚙️ Tech Stack
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Solidity – Smart contract logic
+
+Hardhat – Development, testing, and local blockchain
+
+Node.js (JavaScript) – Deployment & test scripts
+
+Metamask + Faucets – Wallet integration for testnets
+
+Etherscan – Block explorer for contract verification
+
+🚀 Features
+
+Single Solidity smart contract
+
+Automated testing and deployment using Hardhat
+
+Local blockchain simulation via Hardhat node
+
+Wallet connection through Metamask
+
+On-chain verification with Etherscan
